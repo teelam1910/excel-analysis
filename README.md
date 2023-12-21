@@ -48,6 +48,14 @@ Provides trend analysis
 ### What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
 A Bar graph comparing the individual country’s success/failure rates per category could be useful in order to determine in the future what more of the marketing for the crowdfunding should be directed towards in relations to the country. 
 
+## Statistical Analysis
+
+### Use your data to determine whether the mean or the median better summarizes the data.
+The mean better summarizes the data better due to the large range of data for both backers being and goal being 0 to over 500,000. 
+
+### Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
+
+
 
 
 
